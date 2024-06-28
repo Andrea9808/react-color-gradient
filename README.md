@@ -1,3 +1,5 @@
+Per visualizzare il progetto: https://andrea-gradient.netlify.app/
+
 # Color Grading App
 ## Descrizione
 Questo progetto è un'applicazione web per la generazione e la visualizzazione di gradazioni di colore basate su un colore specificato dall'utente. L'app utilizza React per la gestione dell'interfaccia utente e Values.js per la manipolazione dei colori. Ogni gradazione di colore viene rappresentata come un componente visualizzato nell'interfaccia.
